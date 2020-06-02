@@ -7,5 +7,5 @@ The task is to perform comparison of different CNN models for "Fine-grained Clas
 - VGG-16 (pre-trained)
 - ResNet101 (pre-trained)
 
-Data can be downloaded from [a link](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).
-Weights for the trained model can be found on the project space on [a GoogleDrive](https://github.com/user/repo/blob/branch/other_file.md). 
+Data can be downloaded from [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).
+Weights for the trained model can be found on the project space [here](https://github.com/user/repo/blob/branch/other_file.md) on Google Drive. 
