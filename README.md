@@ -1,4 +1,4 @@
-### Pytorch implementation of Dog Breed Classifier using Transfer Learning
+### Simple (and explanatory) Pytorch implementation of Dog Breed Classifier using Transfer Learning
 
 ![alt text](https://miro.medium.com/max/888/1*bHnak3AMWoAFRBd5PnifpQ.png)
 
