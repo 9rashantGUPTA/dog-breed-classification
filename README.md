@@ -1,5 +1,7 @@
 ### Pytorch implementation of Dog Breed Classifier using Transfer Learning
 
+![alt text](https://miro.medium.com/max/888/1*bHnak3AMWoAFRBd5PnifpQ.png)
+
 The task is to perform comparison of different CNN models for "Fine-grained Classification" task on 133 class Dog breeds dataset. The models used are as follows:
 
 - Custom 6-layer CNN model
@@ -8,4 +10,4 @@ The task is to perform comparison of different CNN models for "Fine-grained Clas
 - ResNet101 (pre-trained)
 
 Data can be downloaded from [here](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).
-Weights for the trained model can be found on the project space [here](https://github.com/user/repo/blob/branch/other_file.md) on Google Drive. 
+Weights for the trained model can be found on the project space [here](https://drive.google.com/drive/folders/1IaX4WXL5BK5i5qYd1fdbz_Mp7z2R7NpO?usp=sharing) on Google Drive. 
