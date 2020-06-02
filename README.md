@@ -2,7 +2,7 @@
 
 ![alt text](https://miro.medium.com/max/888/1*bHnak3AMWoAFRBd5PnifpQ.png)
 
-The task is to perform comparison of different CNN models for "Fine-grained Classification" task on 133 class Dog breeds dataset. The models used are as follows:
+The task is to perform comparison of different CNN models for **Fine-grained Classification** task on 133 class [Dog breed dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). The models used are as follows:
 
 - Custom 6-layer CNN model
 - VGG-16 (trained from scratch)
